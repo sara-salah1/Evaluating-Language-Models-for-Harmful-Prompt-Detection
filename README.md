@@ -16,3 +16,8 @@ This project focuses on evaluating and comparing the effectiveness of different 
 
 - Evaluate the performance of each model based on accuracy and effectiveness in detecting harmful prompts.
 - Compare and contrast the models to identify which performs best in identifying harmful content.
+
+
+## Dataset
+**Source:** LLM-EvaluationHub
+**Description:** The dataset contains prompts labeled as harmful or non-harmful. It is used to train and evaluate the language models for detecting harmful content
