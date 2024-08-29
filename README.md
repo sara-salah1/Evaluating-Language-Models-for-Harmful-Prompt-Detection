@@ -18,11 +18,11 @@ This project focuses on evaluating and comparing the effectiveness of different 
 - Compare and contrast the models to identify which performs best in identifying harmful content.
 
 ## Models Used
-1- **DistilBERT**
+- 1- **DistilBERT**
 - Accuracy: 61.6%
-2- **GPT-2**
+- 2- **GPT-2**
 - Accuracy: 69.5% (Best Model)
-3- **RoBERTa-large-mnli**
+- 3- **RoBERTa-large-mnli**
 - Accuracy: 35.7%
 **GPT-2** achieved the highest accuracy and is the best-performing model.
 
