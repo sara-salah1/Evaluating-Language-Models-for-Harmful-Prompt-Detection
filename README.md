@@ -19,5 +19,5 @@ This project focuses on evaluating and comparing the effectiveness of different 
 
 
 ## Dataset
-**Source:** LLM-EvaluationHub
-**Description:** The dataset contains prompts labeled as harmful or non-harmful. It is used to train and evaluate the language models for detecting harmful content
+- **Source:** LLM-EvaluationHub
+- **Description:** The dataset contains prompts labeled as harmful or non-harmful. It is used to train and evaluate the language models for detecting harmful content
